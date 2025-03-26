@@ -1,0 +1,4 @@
+#!/usr/bin/with-contenv bash
+
+echo "Stating Calibre-Server"
+/app/calibre/calibre-server /books
